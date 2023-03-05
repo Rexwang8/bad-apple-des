@@ -2,7 +2,7 @@
 
 https://youtu.be/HV5g7U7V21s
 
-![Pasted image 20230305011436.png]
+![Image](Pasted image 20230305011436.png "Image")
 
 DES_Image.py excluded from repo as it is a part of Purdue ECE 404 HW2, for academic integrity purposes.
 
@@ -31,9 +31,9 @@ At the end, I has a surprisingly coherent video. I noticed that pure white and p
 ---
 
 
-![Pasted image 20230305005616.png]
+![Image](Pasted image 20230305005616.png "Image")
 
-![Pasted image 20230305005626.png]
+![Image](Pasted image 20230305005626.png "Image")
 
-![Pasted image 20230305005643.png]
+![Image](Pasted image 20230305005643.png "Image")
 
